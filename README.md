@@ -1,5 +1,7 @@
 # ₿ Binance Futures Testnet — Trading Bot & Dashboard
 
+![Dashboard Preview 1](asset/dashboard_preview_1.png)
+
 A Python-based **Binance Futures USDT-M Testnet** trading application featuring a powerful **CLI** for order placement and a stunning **Streamlit dashboard** with real-time charts, portfolio tracking, and one-click trading.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
@@ -13,6 +15,8 @@ A Python-based **Binance Futures USDT-M Testnet** trading application featuring 
 
 ### 📊 Streamlit Trading Dashboard
 A premium, dark-themed trading terminal built with Streamlit & Plotly:
+
+![Dashboard Preview 2](asset/dashboard_preview_2.png)
 
 - **Live Ticker Tape** — Real-time prices for BTC, ETH, BNB, SOL, XRP, DOGE
 - **Interactive Candlestick Charts** — Powered by Plotly with volume overlays (1m → 1d timeframes)
