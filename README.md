@@ -244,6 +244,6 @@ This project is for educational purposes. Use at your own risk.
 ---
 
 <p align="center">
-  <b>Built with 🔥 for the finance bros</b><br>
+  <b>Built by Nandini Khandelwal for the finance bros</b><br>
   <sub>₿ Trade smart. Trade testnet first.</sub>
 </p>
