@@ -1,0 +1,8 @@
+# Binance Futures Testnet Trading Bot — Dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Dashboard dependencies
+streamlit>=1.30.0
+plotly>=5.18.0
+pandas>=2.0.0
